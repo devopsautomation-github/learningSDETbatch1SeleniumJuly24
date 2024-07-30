@@ -1,0 +1,2 @@
+payment module functionlaity added to project
+updated test sceanrio as per new acceptance criteria.
